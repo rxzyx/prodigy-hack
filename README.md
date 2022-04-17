@@ -11,10 +11,11 @@
 - **Unlock All Items**
 - **Unlock All Pets**
 - **Health Hack**
+- **Unlimited Damage**
+- **Unlimited Health**
 ## 🤖 Features with Problems (will be fixed soon):
 
-- **Unlimited Health**
-- **Damage Hack**
+- None for now, report to Issues if you find an issue!
 
 #### I am not responsible for your actions with these cheats.
 
