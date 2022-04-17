@@ -9,7 +9,7 @@
 - Unlock All Items
 - Unlock All Pets
 - Health Hack
-#### Features with Problems:
+#### Features with Problems (will be fixed soon):
 
 - Unlimited Health
 - Damage Hack
