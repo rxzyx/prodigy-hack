@@ -1,6 +1,6 @@
 # Prodigy Hack
 
-#### Made by rxzyx (rzx).
+#### Made by rxzyx (rzx). This is purley for education purpouses.
 
 ## Features:
 
