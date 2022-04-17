@@ -1,6 +1,5 @@
 <h1 align="center">Prodigy Hack</h1>
 <h3 align="center">One of the best Prodigy hacks.</h3>
-<h5 align="center">🌟A star or a fork will be highly appreciated! 🍴</h5>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
