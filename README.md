@@ -21,7 +21,7 @@
 
 ## How To Use:
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when your on prodigy.
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
