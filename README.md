@@ -13,6 +13,8 @@
 - **Health Hack**
 - **Unlimited Damage**
 - **Unlimited Health**
+- **Walk Anywhere**
+- **Set Walk Speed**
 ## 🤖 Features with Problems (will be fixed soon):
 
 - None for now, report to Issues if you find an issue!
