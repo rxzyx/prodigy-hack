@@ -17,6 +17,7 @@
 - **Set Walk Speed**
 - **Fill Energy**
 - **Free Membership**
+- **Unlimited Spins**
 ## 🤖 Features with Problems (will be fixed soon):
 
 - None for now, report to Issues if you find an issue!
