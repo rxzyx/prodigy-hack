@@ -16,7 +16,7 @@
 - **Walk Anywhere**
 - **Set Walk Speed**
 - **Fill Energy**
-- **Free Membership (Yes, it works! Just go to another map and it will show the badge.)**
+- **Free Membership (Yes, it works! Just go to another map and it will show the badge. Yes this includes all member features.)**
 - **Unlimited Spins**
 ## 🤖 Features with Problems (will be fixed soon):
 
