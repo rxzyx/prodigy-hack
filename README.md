@@ -21,6 +21,7 @@
 - **Set Grade**
 - **Set Tower**
 - **Reset Account**
+- **Skip Tutorial**
 ## 🤖 Features with Problems (will be fixed soon):
 
 - None for now, report to Issues if you find an issue!
