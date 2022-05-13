@@ -8,7 +8,7 @@
 
 - **Get Gold**
 - **Set User Level**
-- **Unlock All Items**
+- **Unlock All Items (Unlock All Furniture Included)**
 - **Unlock All Pets**
 - **Health Hack**
 - **Unlimited Damage**
