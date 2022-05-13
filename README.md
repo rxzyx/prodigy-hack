@@ -19,6 +19,7 @@
 - **Free Membership**
 - **Unlimited Spins**
 - **Set Grade**
+- **Set Tower**
 ## 🤖 Features with Problems (will be fixed soon):
 
 - None for now, report to Issues if you find an issue!
