@@ -1,5 +1,6 @@
 <h1 align="center">Prodigy Hack</h1>
 <h3 align="center">One of the best Prodigy hacks.</h3>
+<h2 align="center">Discord Support Server: https://discord.gg/wqz4jW6a</h2>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
