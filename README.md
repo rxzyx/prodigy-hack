@@ -20,7 +20,7 @@
 - **Free Membership**
 - **Unlimited Spins**
 - **Set Grade**
-- **Set Tower**
+- Set Tower for 5 days
 - **Reset Account**
 - **Skip Tutorial**
 - **Spam Effects On People**
