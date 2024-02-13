@@ -22,7 +22,7 @@
 - **Set Grade**
 - **Set Tower**
 - **Reset Account**
-- **Skip Tutorial**
+- **
 - **Spam Effects On People**
 - **Morph Forever**
 ## 🤖 Features with Problems (will be fixed soon):
