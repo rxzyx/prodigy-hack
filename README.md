@@ -2,7 +2,7 @@
 <h3 align="center">One of the best Prodigy hacks.</h3>
 <h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 
-#### Made by rxzyx (rzx). This is purley for education purposes.
+#### Made by rxzyx (rzx). This is purely for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
 ## Features:
@@ -34,6 +34,12 @@
 ## How To Use:
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
+- If it doesn't work, follow these steps:
+ **Allow JavaScript in Google Chrome**
+On your computer, open Chrome.
+At the top right, click. then Settings.
+Click Privacy and security, then Site settings, then JavaScript.
+Select Sites can use JavaScript as the default behavior.
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
