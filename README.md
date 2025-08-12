@@ -2,7 +2,7 @@
 <h3 align="center">One of the best Prodigy Math hacks.</h3>
 <h2 align="center">MAJOR FIXES!!!</h3>
 
-#### Made by rxzyx (rzx). This is purley for education purposes.
+#### Made by rxzyx (rzx). This is purely for education purposes.
 #### I have fixed a couple of features, the more demanded ones, run them ONLY when you are in a battle, unless stated otherwise, or they won't work!!!
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
@@ -61,6 +61,12 @@
 ## How To Use:
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code (or just click the copy button) and paste it into the Chrome console when you're on Prodigy.
+- If it doesn't work, follow these steps:
+ **Allow JavaScript in Google Chrome**
+On your computer, open Chrome.
+At the top right, click. then Settings.
+Click Privacy and security, then Site settings, then JavaScript.
+Select Sites can use JavaScript as the default behavior.
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
