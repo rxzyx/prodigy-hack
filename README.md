@@ -52,6 +52,10 @@
 
 - Did other people not make cheats (except that one guy who copied me verbatim, you know who you are)? Anyways, just check my <a href="https://github.com/rxzyx">GitHub profile</a> for other cool stuff!
 
+### UNLOCK LEVEL/PETS DOESN'T WORK!!!
+
+- It does. You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work.
+
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
