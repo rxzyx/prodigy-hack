@@ -3,7 +3,7 @@
 <h2 align="center">MAJOR FIXES!!!</h3>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
-#### I have fixed a couple of features, the more demanded ones, run them ONLY when you are in a battle (or they won't work)!!!
+#### I have fixed a couple of features, the more demanded ones, run them ONLY when you are in a battle, unless stated otherwise, or they won't work!!!
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
 ## Features:
