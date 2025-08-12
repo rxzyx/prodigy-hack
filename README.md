@@ -61,12 +61,11 @@
 ## How To Use:
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code (or just click the copy button) and paste it into the Chrome console when you're on Prodigy.
-- If it doesn't work, follow these steps:
- **Allow JavaScript in Google Chrome**
-On your computer, open Chrome.
-At the top right, click. then Settings.
-Click Privacy and security, then Site settings, then JavaScript.
-Select Sites can use JavaScript as the default behavior.
+- Alternitavely, you can the javascript URL method (putting javascript:thecodehere in the URL box and clicking Enter), if that doesn't work it's likely due to JavaScript not being allowed in Chrome. To allow JavaScript in Google Chrome:
+  - At the top right of the Chrome app, click the three dots and choose Settings.
+  - In the left sidebar, click Privacy and security, then Site settings.
+  - Under Content, select JavaScript.
+  - Choose Sites can use JavaScript as the default behavior.
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
