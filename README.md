@@ -1,5 +1,5 @@
 <h1 align="center">Prodigy Hack</h1>
-<h3 align="center">One of the best Prodigy hacks.</h3>
+<h3 align="center">One of the best Prodigy Math hacks.</h3>
 <h2 align="center">MAJOR FIXES!!!</h3>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
@@ -40,11 +40,23 @@
 
 - Because the math is very easy. Learn math!!
 
+### I want you to make a CUSTOM cheat why are you so SLOW?
+
+- Good point! But I don't really want to focus on making this, so, <a href="https://www.google.com/search?q=learn+javascript">learn JavaScript!</a> It's good for you!!!
+
+### WHY DOESN'T THIS WORK ON PRODIGY ENGLISH???
+
+- Because this is for Math version of Prodigy!
+
+### WHERE WERE YOU THIS WHOLE TIME I HAD NO CHEATS FOR YEARS
+
+- Did other people not make cheats (except that one guy who copied me, you know who you are)? Anyways, just check my <a href="https://github.com/rxzyx">GitHub profile</a> for other cool stuff!
+
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on prodigy.
+- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code (or just click the copy button) and paste it into the Chrome console when you're on Prodigy.
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
