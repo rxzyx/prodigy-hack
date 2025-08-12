@@ -50,7 +50,7 @@
 
 ### WHERE WERE YOU THIS WHOLE TIME I HAD NO CHEATS FOR YEARS
 
-- Did other people not make cheats (except that one guy who copied me, you know who you are)? Anyways, just check my <a href="https://github.com/rxzyx">GitHub profile</a> for other cool stuff!
+- Did other people not make cheats (except that one guy who copied me verbatim, you know who you are)? Anyways, just check my <a href="https://github.com/rxzyx">GitHub profile</a> for other cool stuff!
 
 #### I am not responsible for your actions with these cheats.
 
