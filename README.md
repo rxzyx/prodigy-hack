@@ -47,7 +47,7 @@
 
 ### WHY DOESN'T THIS WORK ON PRODIGY ENGLISH???
 
-- Because this is for Math version of Prodigy!
+- Because this is for the Math version of Prodigy!
 
 ### WHERE WERE YOU THIS WHOLE TIME I HAD NO CHEATS FOR YEARS
 
