@@ -59,7 +59,7 @@
 
 ### YEAH BUT MAGIC COINS REALLY DON'T WORK!!!!
 
-- Seems it only works for upgrading pets. Why? I'm sure the name that Prodigy calls it, "secure item," should give you an idea.
+- Seems like it only works for upgrading pets. Why? I'm sure the name that Prodigy calls it, "secure item," should give you an idea.
 
 #### I am not responsible for your actions with these cheats.
 
