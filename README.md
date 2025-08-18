@@ -57,6 +57,10 @@
 
 - It does. You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work.
 
+### YEAH BUT MAGIC COINS REALLY DON'T WORK!!!!
+
+- Seems it only works for upgrading pets. Why? I'm sure the name that Prodigy calls it, "secure item," should give you an idea.
+
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
