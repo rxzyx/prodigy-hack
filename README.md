@@ -8,28 +8,32 @@
 
 ## Features:
 
-- **Get Gold**
-- **Set User Level**
-- **Unlock All Items (Unlock All Furniture Included)**
-- **Unlock All Pets**
-- **Health Hack**
-- **Get and Use Magic Coins**
-- **Unlimited Damage**
-- **Unlimited Health**
-- **Walk Anywhere**
-- **Set Walk Speed**
-- **Fill Energy**
-- **Free Membership**
-- **Unlimited Spins**
-- **Set Grade**
-- **Set Tower**
-- **Reset Account**
-- **Skip Tutorial**
-- **Spam Effects On People**
-- **Morph Forever**
+✅ indicates fixed, should-be working features<br>
+⚠️ indicates semi-working ("to an extent") features<br>
+❌ indicates unfixed features<br>
+
+- ✅ **Get Gold**
+- ✅ **Set User Level**
+- ✅ **Unlock All Items (Unlock All Furniture Included)**
+- ✅ **Unlock All Pets**
+- ✅ **Health Hack (Player)**
+- ✅ **Free Membership**
+- ⚠️ **Get and Use Magic Coins** (please view the FAQ)
+- ✅ **Set Grade**
+- ✅ **Set Tower**
+- ❌ **Unlimited Damage**
+- ❌ **Unlimited Health**
+- ❌ **Walk Anywhere**
+- ❌ **Set Walk Speed**
+- ❌ **Fill Energy**
+- ❌ **Unlimited Spins**
+- ❌ **Reset Account**
+- ❌ **Skip Tutorial**
+- ❌ **Spam Effects On People**
+- ❌ **Morph Forever**
 ## 🤖 Features with Problems:
 
-- Likely a couple, report to Issues and if it is in popular demand then I might try to fix it!
+- Likely a couple (and most that have not been recently updated as part of the fixes), report to Issues and if it is in popular demand then I might try to fix it!
 
 ## FAQ
 
@@ -52,6 +56,10 @@
 ### WHERE WERE YOU THIS WHOLE TIME I HAD NO CHEATS FOR YEARS
 
 - Did other people not make cheats (except that one guy who copied me verbatim, you know who you are)? Anyways, just check my <a href="https://github.com/rxzyx">GitHub profile</a> for other cool stuff!
+
+### I REFRESHED AND THE MEMBERSHIP HACK DIDN'T WORK!!!
+
+- That's because the hack is temporary, so for one session only. You have to run it again (IN A BATTLE!) every session.
 
 ### UNLOCK LEVEL/PETS/MAGIC COINS DOESN'T WORK!!!
 
