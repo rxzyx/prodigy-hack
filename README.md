@@ -61,9 +61,9 @@
 
 - That's because the hack is temporary, so for one session only. You have to run it again (IN A BATTLE!) every session.
 
-### UNLOCK LEVEL/PETS/MAGIC COINS DOESN'T WORK!!!
+### MAGIC COINS DOESN'T WORK!!!
 
-- It does. You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work.
+- It does. You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work (level, pets and items works without going to a battle now).
 
 ### YEAH BUT MAGIC COINS REALLY DON'T WORK!!!!
 
