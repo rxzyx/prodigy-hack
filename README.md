@@ -59,7 +59,7 @@
 
 ### I REFRESHED AND THE MEMBERSHIP HACK DIDN'T WORK!!!
 
-- That's because the hack is temporary, so for one session only. You have to run it again (IN A BATTLE!) every session.
+- That's because the hack is temporary, so for one session only. You have to run it again (formerly only in a battle, but now it should work outside one) every session.
 
 ### MAGIC COINS DOESN'T WORK!!!
 
