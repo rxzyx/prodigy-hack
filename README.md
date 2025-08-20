@@ -21,10 +21,10 @@
 - ⚠️ **Get and Use Magic Coins** (please view the FAQ)
 - ✅ **Set Grade**
 - ✅ **Set Tower**
-- ✅ **Walk Anywhere** (works when you are in the game map and not in a battle)
+- ✅ **Walk Anywhere** (works when you are generally in the game and not in a battle)
+- ✅ **Set Walk Speed** (works when you are generally in the game and not in a battle)
 - ❌ **Unlimited Damage**
 - ❌ **Unlimited Health**
-- ❌ **Set Walk Speed**
 - ❌ **Fill Energy**
 - ❌ **Unlimited Spins**
 - ❌ **Reset Account**
