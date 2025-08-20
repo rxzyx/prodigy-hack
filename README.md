@@ -63,7 +63,7 @@
 
 ### MAGIC COINS DOESN'T WORK!!!
 
-- It does. You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work (level, pets and items works without going to a battle now).
+- It sort of does (see below explanation). You can run the script when you're selecting the lobby or even when you are in the game (not the battle), then, do an action such as clicking the Membership icon and then go to a battle and it will prompt the necessary questions and work (level, pets and items works without going to a battle now).
 
 ### YEAH BUT MAGIC COINS REALLY DON'T WORK!!!!
 
