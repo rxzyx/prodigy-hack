@@ -17,7 +17,7 @@
 - ✅ **Unlock All Items (Unlock All Furniture Included)**
 - ✅ **Unlock All Pets**
 - ✅ **Health Hack (Player)**
-- ✅ **Free Membership**
+- ✅ **Free Membership** (temporary, view FAQ)
 - ⚠️ **Get and Use Magic Coins** (please view the FAQ)
 - ✅ **Set Grade**
 - ✅ **Set Tower**
