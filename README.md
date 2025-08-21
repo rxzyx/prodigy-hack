@@ -69,6 +69,10 @@
 
 - Seems like it only works for upgrading pets. Why? I'm sure the name that Prodigy calls it, "secure item," should give you an idea.
 
+### PETS DO NOT WORK!
+
+- It does. Refresh.
+
 #### I am not responsible for your actions with these cheats.
 
 ## How To Use:
