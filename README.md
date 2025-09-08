@@ -71,7 +71,7 @@
 
 ### PETS DO NOT WORK!
 
-- It does. Refresh.
+- It does. Refresh. If it still doesn't (it should), try executing the script outside of a battle, so when you are in the "world"
 
 #### I am not responsible for your actions with these cheats.
 
