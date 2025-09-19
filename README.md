@@ -9,7 +9,7 @@
 ## Features (most not working due to game framework change, will fix now):
 
 ✅ indicates fixed, should-be working features<br>
-⚙️ indicates features to be fixed soon
+⚙️ indicates features to be fixed soon<br>
 ⚠️ indicates semi-working ("to an extent") features<br>
 ❌ indicates unfixed features<br>
 
