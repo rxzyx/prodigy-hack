@@ -14,16 +14,16 @@
 ❌ indicates unfixed features<br>
 
 - ⚙️ **Get Gold**
-- ⚙️ **Set User Level**
-- ⚙️ **Unlock All Items (Unlock All Furniture Included)**
-- ⚙️ **Unlock All Pets**
-- ⚙️ **Health Hack (Player)**
+- ✅ **Set User Level**
+- ✅ **Unlock All Items (Unlock All Furniture Included)**
+- ✅ **Unlock All Pets**
+- ✅ **Health Hack (Player)**
 - ✅ **Free Membership** (temporary, view FAQ)
 - ⚠️ **Get and Use Magic Coins** (please view the FAQ)
 - ⚙️ **Set Grade**
 - ⚙️ **Set Tower**
-- ⚙️ **Walk Anywhere** (works when you are generally in the game and not in a battle)
-- ⚙️ **Set Walk Speed** (works when you are generally in the game and not in a battle)
+- ✅ **Walk Anywhere** (works when you are generally in the game and not in a battle)
+- ✅ **Set Walk Speed** (works when you are generally in the game and not in a battle)
 - ❌ **Unlimited Damage**
 - ❌ **Unlimited Health**
 - ❌ **Fill Energy**
