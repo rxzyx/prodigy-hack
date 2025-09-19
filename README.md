@@ -4,24 +4,25 @@
 
 #### Made by rxzyx (rzx). This is purely for education purposes.
 #### I have fixed a couple of features, the more demanded ones, run them ONLY when you are in a battle, unless stated otherwise, or they won't work!!!
+#### Features that were previously fixed have once again been fixed.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
-## Features (most not working due to game framework change, will fix now):
+## Features:
 
 ✅ indicates fixed, should-be working features<br>
-⚙️ indicates features to be fixed soon<br>
+⚙️ indicates features to be fixed soon (currently none)<br>
 ⚠️ indicates semi-working ("to an extent") features<br>
 ❌ indicates unfixed features<br>
 
-- ⚙️ **Get Gold**
+- ✅ **Get Gold**
 - ✅ **Set User Level**
 - ✅ **Unlock All Items (Unlock All Furniture Included)**
 - ✅ **Unlock All Pets**
 - ✅ **Health Hack (Player)**
 - ✅ **Free Membership** (temporary, view FAQ)
 - ⚠️ **Get and Use Magic Coins** (please view the FAQ)
-- ⚙️ **Set Grade**
-- ⚙️ **Set Tower**
+- ✅ **Set Grade**
+- ✅ **Set Tower**
 - ✅ **Walk Anywhere** (works when you are generally in the game and not in a battle)
 - ✅ **Set Walk Speed** (works when you are generally in the game and not in a battle)
 - ❌ **Unlimited Damage**
