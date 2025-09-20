@@ -17,7 +17,7 @@
 - ✅ **Get Gold**
 - ✅ **Set User Level**
 - ✅ **Unlock All Items (Unlock All Furniture Included)**
-- ✅ **Unlock All Pets**
+- ✅ **Unlock All Pets** (recently fixed)
 - ✅ **Health Hack (Player)**
 - ✅ **Free Membership** (temporary, view FAQ)
 - ⚠️ **Get and Use Magic Coins** (please view the FAQ)
